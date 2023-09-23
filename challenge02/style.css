@@ -32,6 +32,21 @@ body {
 }
 
 .intro-content {
-  width: 50%;
   margin: 0 auto;
+  width: 80%;
+  max-width: 700px;
+}
+
+.intro-content p {
+  max-width: 50%;
+}
+
+.container2 {
+  width: 100%;
+}
+
+.content2 {
+  margin: 0 auto;
+  width: 80%;
+  max-width: 700px;
 }
